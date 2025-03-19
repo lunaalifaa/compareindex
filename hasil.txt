@@ -1,0 +1,26 @@
+*IDXVESTA28 Mayor:*
+*- IN (9):* ARTO EXCL GJTL HRUM JPFA KLBF MAPI MEDC PTBA
+*- OUT (9):* AKRA BDMN BNGA GGRM INCO MYOR SMSM SRTG TLKM
+
+*IDXECONOMIC30 Mayor:*
+*- IN (3):* PNLF PWON TPIA
+*- OUT (3):* BTPS NCKL TKIM
+
+*ABX Minor:*
+*- IN (3):* KLIN NAYZ PACK
+
+*DBX Minor:*
+*- IN (16):* ARTA BRRC DWGL FMII FUTR GPSO HOMI JSPT KJEN MMIX PNSE RATU RDTX SAFE SONA WIFI
+
+*MBX Minor:*
+*- IN (4):* CMNP DAAZ INPC LION
+
+*IDXMESBUMN Minor:* Tidak ada perubahan keluar masuk indeks
+*INVESTOR33 Minor:* Tidak ada perubahan keluar masuk indeks
+*SRIKEHATI Minor:* Tidak ada perubahan keluar masuk indeks
+*ESGSKEHATI Minor:* Tidak ada perubahan keluar masuk indeks
+*ESGQKEHATI Minor:* Tidak ada perubahan keluar masuk indeks
+*ISSI Minor:* Tidak ada perubahan keluar masuk indeks
+*JII Minor:* Tidak ada perubahan keluar masuk indeks
+*JII70 Minor:* Tidak ada perubahan keluar masuk indeks
+*IDXSHAGROW Minor:* Tidak ada perubahan keluar masuk indeks
